@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayshmishra
+- 👋 Hi, I’m @ayuschmishra
 - 👀 I’m interested in Data Science , AI
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
